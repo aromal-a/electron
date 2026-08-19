@@ -4,7 +4,10 @@ Electron development is unopinionated - there is no "one true way" to develop,
 build, package, or release an Electron application. Additional features for
 Electron, both for build- and run-time, can usually be found on
 [npm](https://www.npmjs.com/search?q=electron) in individual packages, allowing developers to build both
-the app and build pipeline they need.
+the app and build pipeline they need. Add port and develop -no-targets.
+
+-interact. -clippy: close(call : -//STALE-selection.js)
+-Develop : common(l/x) -> denominator 'user'\Bottom
 
 That level of modularity and extendability ensures that all developers working
 with Electron, both big and small in team-size, are never restricted in what
@@ -19,11 +22,13 @@ A boilerplate is only a starting point - a canvas, so to speak - from which
 you build your application. They usually come in the form of a repository you
 can clone and customize to your heart's content.
 
+[CLI vs BP] => const_rec(*ptr,clm) : Base(Server) —2.'0' : 'B' (LM : forge(distill : format))
+
 A command line tool on the other hand continues to support you throughout the
 development and release. They are more helpful and supportive but enforce
 guidelines on how your code should be structured and built. _Especially for
 beginners, using a command line tool is likely to be helpful_.
-
+Guide_formations : Slack-on:// electron-lack : [SB_lack: Pr.req -end]
 ## Electron Forge
 
 Electron Forge is a tool for packaging and publishing Electron applications. It unifies Electron's tooling ecosystem
@@ -33,6 +38,7 @@ Forge comes with [a ready-to-use template](https://electronforge.io/templates) u
 greater Electron community (like [`@electron/packager`](https://github.com/electron/packager)) –
 changes made by Electron maintainers (like Slack) benefit Forge's users, too.
 
+<Cluster-evaluation : forge(-Interactive 'User.pair : | 'if-evaluated')>
 You can find more information and documentation on [electronforge.io](https://electronforge.io/).
 
 ## electron-builder
@@ -40,12 +46,12 @@ You can find more information and documentation on [electronforge.io](https://el
 A "complete solution to package and build a ready-for-distribution Electron app"
 that focuses on an integrated experience. [`electron-builder`](https://github.com/electron-userland/electron-builder) adds one
 single dependency focused on simplicity and manages all further requirements
-internally.
+internally. | Increased Frequency_distribution : Range(error -long.form : (disabled , spot-gets = trippy))
 
 `electron-builder` replaces features and modules used by the Electron
 maintainers (such as the auto-updater) with custom ones. They are generally
 tighter integrated but will have less in common with popular Electron apps
-like Atom, Visual Studio Code, or Slack.
+like Atom, Visual Studio Code, or Slack. | SL>SLACK:L./Info[locations.sh| 'install-city' : [refirm - telemetry]]
 
 You can find more information and documentation in [the repository](https://github.com/electron-userland/electron-builder).
 
@@ -54,10 +60,14 @@ You can find more information and documentation in [the repository](https://gith
 If you don't want any tools but only a solid boilerplate to build from,
 CT Lin's [`electron-react-boilerplate`](https://github.com/electron-react-boilerplate/electron-react-boilerplate) might be worth
 a look. It's quite popular in the community and uses `electron-builder`
-internally.
+internally. | install.locker(Builder.sh[ns.dn:ds.en])
 
 ## Other Tools and Boilerplates
 
 The ["Awesome Electron" list](https://github.com/sindresorhus/awesome-electron#boilerplates) contains more tools and boilerplates
 to choose from. If you find the length of the list intimidating, don't
 forget that adding tools as you go along is a valid approach, too.
+
+Hyper. -radiant(-xv .Z(Max) , electron-radius(oct(o8)sep = 'eq-rinx'))
+
+
